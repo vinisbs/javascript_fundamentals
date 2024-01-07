@@ -1,4 +1,4 @@
-// parâmetros de função
+ // parâmetros de função
 
               //2       //2
 // function soma(numero1, numero2) {
@@ -35,6 +35,10 @@ console.log(multiplica(soma(4, 5)))
 
 
 
+function comParametro(param) {
+  console.log(param)
+}
+comParametro()
 
 
 
